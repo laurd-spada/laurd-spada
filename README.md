@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello and welcome! My name is Daniel Oboba Ufuoma, and I am a software engineer with a strong background in Java, Python, React, and JavaScript. I am passionate about using technology to solve complex problems and create innovative solutions. With experience in both front-end and back-end development, I am adept at designing and implementing scalable applications. In my free time, I enjoy exploring new technologies and contributing to open-source projects.
+Hello and welcome! My name is Daniel Oboba Ufuoma, and I am a software engineer with a strong background in Java, Python, React, and JavaScript and Go. I am passionate about using technology to solve complex problems and create innovative solutions. With experience in both front-end and back-end development, I am adept at designing and implementing scalable applications. In my free time, I enjoy exploring new technologies and contributing to open-source projects.
 
 
 ## 🌐 Socials:
